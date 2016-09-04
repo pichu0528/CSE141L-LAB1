@@ -1,0 +1,34 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/pichu/Desktop/ucsdcse141l-labs-147d48e156ab/lab1/adder/prj/simulation/modelsim
+vadder
+DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+!s110 1460580357
+!i10b 1
+!s100 <JKFACZiAdPzFJ]=UM@iJ2
+IGoho0NJOEZ4^o<MILQ2TX0
+V`JN@9S9cnhjKRR_L]QIcM3
+!s105 adder_sv_unit
+S1
+R0
+w1460579023
+8C:/Users/pichu/Desktop/ucsdcse141l-labs-147d48e156ab/lab1/adder/src/adder.sv
+FC:/Users/pichu/Desktop/ucsdcse141l-labs-147d48e156ab/lab1/adder/src/adder.sv
+L0 7
+OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1460580356.936000
+!s107 C:/Users/pichu/Desktop/ucsdcse141l-labs-147d48e156ab/lab1/adder/src/adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/pichu/Desktop/ucsdcse141l-labs-147d48e156ab/lab1/adder/src|C:/Users/pichu/Desktop/ucsdcse141l-labs-147d48e156ab/lab1/adder/src/adder.sv|
+!i113 1
+o-sv -work work
+!s92 -sv -work work +incdir+C:/Users/pichu/Desktop/ucsdcse141l-labs-147d48e156ab/lab1/adder/src
